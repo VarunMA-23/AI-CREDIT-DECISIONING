@@ -1,0 +1,25 @@
+# Python environments
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite Database (Do not upload dirty state)
+memory/customer_memory.db
+*.sqlite3
+
+# Test Logs & Audit Artifacts
+test_results.json
+audit_report.json
+failed_seeds.json
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+.DS_Store
+git_commit_sequence.txt
