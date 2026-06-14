@@ -1,0 +1,16 @@
+{
+  "intercept": 3.94,
+  "credit_score": -0.0055,
+  "income_monthly": -1.5e-06,
+  "employment_years": -0.055,
+  "existing_emi": 1e-05,
+  "num_existing_loans": 0.14,
+  "savings_balance": -2.5e-06,
+  "repayment_history": -2.2,
+  "age": -0.018,
+  "loan_amount": 7e-07,
+  "loan_tenure": -0.003,
+  "has_guarantor": -0.3,
+  "has_collateral": -0.39,
+  "dti": 3.5
+}
